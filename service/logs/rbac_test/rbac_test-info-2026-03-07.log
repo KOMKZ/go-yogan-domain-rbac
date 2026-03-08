@@ -1,0 +1,34 @@
+{"level":"info","time":"2026-03-07T13:25:17.502+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"admin"}
+{"level":"info","time":"2026-03-07T13:25:17.502+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"admin"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"ed"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:104","msg":"role deleted","module":"rbac_test","app_name":"","role_id":1}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":2,"code":"b"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"admin"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T13:25:17.503+0800","caller":"service/user_role_service.go:54","msg":"user roles assigned","module":"rbac_test","app_name":"","user_id":1,"role_ids":[1,2]}
+{"level":"info","time":"2026-03-07T22:55:12.067+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"admin"}
+{"level":"info","time":"2026-03-07T22:55:12.068+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"admin"}
+{"level":"info","time":"2026-03-07T22:55:12.068+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"ed"}
+{"level":"info","time":"2026-03-07T22:55:12.068+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.068+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:104","msg":"role deleted","module":"rbac_test","app_name":"","role_id":1}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":2,"code":"b"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"admin"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/role_service.go:63","msg":"role created","module":"rbac_test","app_name":"","role_id":1,"code":"a"}
+{"level":"info","time":"2026-03-07T22:55:12.069+0800","caller":"service/user_role_service.go:54","msg":"user roles assigned","module":"rbac_test","app_name":"","user_id":1,"role_ids":[1,2]}
